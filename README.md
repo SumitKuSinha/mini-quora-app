@@ -17,5 +17,4 @@ Built to practice backend development, routing, and CRUD operations.
 
 This project was built as a learning exercise.
 
-This line is added from practice branch.
 >>>>>>> 9179a103a382e4770e67ca02e3d22fea6ca3c399
