@@ -14,3 +14,5 @@ A simple CRUD-based web application inspired by Quora.
 
 ## Purpose
 Built to practice backend development, routing, and CRUD operations.
+
+This project was built as a learning exercise.
